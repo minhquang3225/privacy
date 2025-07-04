@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Yêu cầu xoá tài khoản</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1 {
+      color: #c0392b;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Yêu cầu Xoá Tài Khoản</h1>
+
+  <p>Chúng tôi tôn trọng quyền riêng tư và quyền kiểm soát dữ liệu của bạn. Nếu bạn muốn xoá tài khoản và tất cả dữ liệu liên quan khỏi hệ thống, vui lòng thực hiện một trong các cách sau:</p>
+
+  <h2>1. Xoá trực tiếp trong ứng dụng</h2>
+  <ul>
+    <li>Mở ứng dụng <strong>Quản Lý Thành Viên Chuyến Đi</strong></li>
+    <li>Đi tới mục <strong>Cài đặt</strong></li>
+    <li>Chọn <strong>Xoá tài khoản</strong> và xác nhận</li>
+  </ul>
+
+  <h2>2. Gửi yêu cầu qua email</h2>
+  <p>Bạn cũng có thể gửi yêu cầu thủ công bằng cách liên hệ với chúng tôi qua email:</p>
+  <ul>
+    <li>Email: <a href="mailto:support@example.com">support@example.com</a></li>
+    <li>Vui lòng ghi rõ địa chỉ email hoặc UID đã đăng ký tài khoản.</li>
+  </ul>
+
+  <h2>3. Thời gian xử lý</h2>
+  <p>Yêu cầu xoá tài khoản sẽ được xử lý trong vòng 7 ngày làm việc.</p>
+
+  <hr />
+  <p><em>Chúng tôi có thể giữ lại một số dữ liệu để tuân thủ quy định pháp luật nếu cần thiết.</em></p>
+</body>
+</html>
